@@ -48,8 +48,10 @@ h1 {
 
 .about-section {
   /*height: 26.25rem;*/
+  
   background: #ffff;
-  padding: 6.25rem; }
+  padding: 6.25rem;
+  padding-bottom: 7rem; }
   .about-section .container {
     max-width: 33rem; }
 
