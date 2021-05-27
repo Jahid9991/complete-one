@@ -51,7 +51,8 @@ h1 {
   background: #ffff;
   padding: 6.25rem; }
   .about-section .container {
-    max-width: 33rem; }
+    max-width: 33rem;
+    padding-bottom: 7rem; }
 
 .skill-section {
   background: url("../img/img.jpg");
